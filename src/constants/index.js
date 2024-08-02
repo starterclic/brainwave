@@ -104,7 +104,7 @@ export const roadmap = [
   {
     id: "1",
     title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
+    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap2,
@@ -112,7 +112,7 @@ export const roadmap = [
   {
     id: "2",
     title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
+    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap3,
@@ -245,7 +245,7 @@ export const benefits = [
   {
     id: "0",
     title: "Boostez votre Quotidien",
-    text: "Nos applications IA comprennent vos besoins mieux que votre conjoint. Promis, elles ne vous demanderont pas "et sinon, ça va ?",
+    text: "Nos applications IA comprennent vos besoins mieux que votre conjoint. Promis, elles ne vous demanderont pas : et sinon, ça va ?",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
