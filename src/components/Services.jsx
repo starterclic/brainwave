@@ -26,16 +26,16 @@ const Services = () => {
               <img
                 className="w-full h-full object-cover md:object-right"
                 width={800}
-                alt="Smartest AI"
+                alt="Solutions IA"
                 height={730}
                 src={service1}
               />
             </div>
 
             <div className="relative z-1 max-w-[17rem] ml-auto">
-              <h4 className="h4 mb-4">Smartest AI</h4>
+              <h4 className="h4 mb-4">Solutions IA : Votre Ticket pour le Futur</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the potential of AI-powered applications
+                Sautez dans la DeLorean numérique
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
@@ -66,10 +66,9 @@ const Services = () => {
               </div>
 
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
-                <h4 className="h4 mb-4">Photo editing</h4>
+                <h4 className="h4 mb-4">Open Source et Personnalisable (Votre IA, vos règles)</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
+                  Orchestration de Workflows IA : Votre Chef d'Orchestre Numérique
                 </p>
               </div>
 
