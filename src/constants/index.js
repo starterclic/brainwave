@@ -39,33 +39,33 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "Fonctionnalités",
     url: "#features",
   },
   {
     id: "1",
-    title: "Pricing",
+    title: "Tarifs",
     url: "#pricing",
   },
   {
     id: "2",
-    title: "How to use",
+    title: "Comment ça fonctionne",
     url: "#how-to-use",
   },
   {
     id: "3",
-    title: "Roadmap",
+    title: "Services",
     url: "#roadmap",
   },
   {
     id: "4",
-    title: "New account",
+    title: "Nouveau compte",
     url: "#signup",
     onlyMobile: true,
   },
   {
     id: "5",
-    title: "Sign in",
+    title: "Inscription",
     url: "#login",
     onlyMobile: true,
   },
@@ -119,10 +119,10 @@ export const roadmap = [
   },
   {
     id: "3",
-    title: "Integration with APIs",
+    title: "Integration avec vos logiciels",
     text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
     date: "May 2023",
-    status: "progress",
+    status: "done",
     imageUrl: roadmap4,
   },
 ];
@@ -244,16 +244,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Boostez votre Quotidien",
+    text: "Nos applications IA comprennent vos besoins mieux que votre conjoint. Promis, elles ne vous demanderont pas "et sinon, ça va ?",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "L'IA Nomade",
+    text: "Emportez votre génie numérique partout. Comme un doudou, mais en plus intelligent (et moins encombrant).",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,8 +261,8 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Réponses Éclair",
+    text: "Des réponses plus rapides que l'éclair. Flash, sors de ce corps !",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
