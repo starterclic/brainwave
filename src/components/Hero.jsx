@@ -39,7 +39,7 @@ const Hero = () => {
             Vous êtes submergé par la vague IA ? Noyé dans l'océan des possibilités technologiques ? Cybtek est votre bouée de sauvetage !
           </p>
           <Button href="/pricing" white>
-            Get started
+            Plongez dans l'aventure
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
