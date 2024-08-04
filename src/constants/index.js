@@ -210,7 +210,7 @@ export const pricing = [
     id: "0",
     title: "Basic",
     description: "AI chatbot, personalized recommendations",
-    price: "null",
+    price: null,
     features: [
       "Accès à VoiceScheduler et CustomBot",
       "Jusqu'à 1000 interactions par mois",
@@ -222,7 +222,7 @@ export const pricing = [
     id: "1",
     title: "Premium",
     description: "Accès à VoiceScheduler, CustomBot et BizCoach",
-    price: "null",
+    price: null,
     features: [
       "Jusqu'à 5000 interactions par mois",
       "Intégration avec 10 outils au choix",
