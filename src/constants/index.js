@@ -210,7 +210,7 @@ export const pricing = [
     id: "0",
     title: "Basic",
     description: "AI chatbot, personalized recommendations",
-    price: "29,99 € / mois",
+    price: "29,99€/mois",
     features: [
       "Accès à VoiceScheduler et CustomBot",
       "Jusqu'à 1000 interactions par mois",
